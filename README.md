@@ -1,0 +1,1 @@
+Hi, I’m @OctoLinkYT! I'm a begginner coder who likes making fun stuff. I specialize in html, css, javascript, and node.js. I have a youtube channel where I do non-code related things, which can be found [here](https://youtube.com/@OctoLinkYT)!
